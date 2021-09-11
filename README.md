@@ -7,7 +7,7 @@ The module includes a send method, which sends a [Custom resource response objec
 ## Sample usage
 
 ```javascript
-const response = require("cfn-response-async");
+const response = require("@vissree_s/cfn-response-async");
 
 async function someAsyncLogicToRun() {
   return "All good!";
