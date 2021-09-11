@@ -1,11 +1,11 @@
 {
-  "name": "cfn-response-async",
+  "name": "@vissree_s/cfn-response-async",
   "version": "0.0.1",
   "description": "A module for managing lambda-funciton backed custom resources in AWS CloudFormation with async support",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/vissree/cfn-response-async.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vissree/cfn-response-async.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,9 @@
     "formation"
   ],
   "author": "vissree",
-  "license": "Refer LICENCE.md"
+  "license": "SEE LICENCE IN LICENCE.md",
+  "bugs": {
+    "url": "https://github.com/vissree/cfn-response-async/issues"
+  },
+  "homepage": "https://github.com/vissree/cfn-response-async#readme"
 }
